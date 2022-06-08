@@ -5,5 +5,6 @@ Rencana 08 Juni 2022
 - Belajar Back End di dicoding ikut beasiswa IDCamp
   - Belajar AWS Cloud
 - Belajar Mobile Programming di DTS VSGA
+  - Belajar Bahasa Java dan Kotlin
 - Belajar Bahasa Inggris
 - Belajar Entrepreurship
