@@ -3,8 +3,7 @@ Rencana 08 Juni 2022
 - Belajar Front End di youtube WPU
   - Belajar React.js
 - Belajar Back End di dicoding ikut beasiswa IDCamp
-  - Belajar AWS Cloud
+  - Belajar CI/CD
 - Belajar Mobile Programming di DTS VSGA
   - Belajar Bahasa Java dan Kotlin
 - Belajar Bahasa Inggris
-- Belajar Entrepreurship
